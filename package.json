@@ -1,0 +1,22 @@
+{
+  "name": "turistimpress_plugin",
+  "version": "1.0.0",
+  "description": "A wordpress plugin for design turistic itineraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscuri13/turistimpress_plugin.git"
+  },
+  "author": "Oniric Studios Perú",
+  "license": "MIT License ",
+  "bugs": {
+    "url": "https://github.com/jesuscuri13/turistimpress_plugin/issues"
+  },
+  "homepage": "https://github.com/jesuscuri13/turistimpress_plugin#readme",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
